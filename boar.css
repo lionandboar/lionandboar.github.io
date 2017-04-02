@@ -1,0 +1,272 @@
+img {
+  width: 500px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); }
+
+#boar {
+  right: 5vw; }
+
+.shard {
+  position: absolute;
+  background-color: transparent;
+  width: inherit;
+  height: 500px; }
+
+#Ba {
+  clip-path: polygon(48.45% 0.5%, 54.85% 18.9%, 50% 50%);
+  background-color: #72593f; }
+
+#Bb {
+  clip-path: polygon(57.05% 0.7%, 60.25% 20.3%, 50% 50%);
+  background-color: #866b50; }
+
+#Bc {
+  clip-path: polygon(65.45% 2.7%, 65.05% 22.5%, 50% 50%);
+  background-color: #967a5d; }
+
+#Bd {
+  clip-path: polygon(73.45% 5.9%, 69.65% 25.3%, 50% 50%);
+  background-color: #a28566; }
+
+#Be {
+  clip-path: polygon(80.85% 10.7%, 73.65% 29.1%, 50% 50%);
+  background-color: #967d62; }
+
+#Bf {
+  clip-path: polygon(87.25% 16.7%, 77.05% 33.5%, 50% 50%);
+  background-color: #8a745c; }
+
+#Bg {
+  clip-path: polygon(92.45% 23.7%, 79.45% 38.7%, 50% 50%);
+  background-color: #7b6751; }
+
+#Bh {
+  clip-path: polygon(96.25% 31.3%, 81.05% 43.7%, 50% 50%);
+  background-color: #6f5c46; }
+
+#Bi {
+  clip-path: polygon(98.85% 39.7%, 81.45% 49.3%, 50% 50%);
+  background-color: #65523c; }
+
+#Bj {
+  clip-path: polygon(99.85% 48.5%, 81.05% 54.7%, 50% 50%);
+  background-color: #71583b; }
+
+#Bk {
+  clip-path: polygon(99.25% 57.1%, 79.85% 60.1%, 50% 50%);
+  background-color: #8a6840; }
+
+#Bl {
+  clip-path: polygon(97.25% 65.5%, 77.65% 65.1%, 50% 50%);
+  background-color: #9e8160; }
+
+#Bm {
+  clip-path: polygon(93.85% 73.5%, 74.45% 69.7%, 50% 50%);
+  background-color: #927555; }
+
+#Bn {
+  clip-path: polygon(89.05% 80.7%, 70.85% 73.7%, 50% 50%);
+  background-color: #866a4c; }
+
+#Bo {
+  clip-path: polygon(83.25% 87.1%, 66.25% 76.9%, 50% 50%);
+  background-color: #72593f; }
+
+#Bp {
+  clip-path: polygon(76.25% 92.3%, 61.45% 79.3%, 50% 50%);
+  background-color: #72593f; }
+
+#Bq {
+  clip-path: polygon(68.45% 96.3%, 56.05% 80.9%, 50% 50%);
+  background-color: #795e42; }
+
+#Br {
+  clip-path: polygon(60.05% 98.7%, 50.65% 81.3%, 50% 50%);
+  background-color: #866747; }
+
+#Bs {
+  clip-path: polygon(51.65% 99.7%, 45.05% 80.9%, 50% 50%);
+  background-color: #906f4e; }
+
+#Bt {
+  clip-path: polygon(42.85% 99.3%, 39.85% 79.5%, 50% 50%);
+  background-color: #9e7c59; }
+
+#Bu {
+  clip-path: polygon(34.45% 97.1%, 34.65% 77.3%, 50% 50%);
+  background-color: #96795b; }
+
+#Bv {
+  clip-path: polygon(26.45% 93.9%, 30.25% 74.3%, 50% 50%);
+  background-color: #88725b; }
+
+#Bw {
+  clip-path: polygon(19.25% 88.9%, 26.25% 70.5%, 50% 50%);
+  background-color: #7b6853; }
+
+#Bx {
+  clip-path: polygon(12.85% 83.1%, 23.05% 65.9%, 50% 50%);
+  background-color: #73614d; }
+
+#By {
+  clip-path: polygon(7.65% 76.3%, 20.45% 61.3%, 50% 50%);
+  background-color: #695947; }
+
+#Bz {
+  clip-path: polygon(3.65% 68.5%, 18.65% 56.3%, 50% 50%);
+  background-color: #615241; }
+
+#Baa {
+  clip-path: polygon(1.05% 60.1%, 18.45% 50.7%, 50% 50%);
+  background-color: #5a4b3b; }
+
+#Bab {
+  clip-path: polygon(0.05% 51.5%, 19.05% 44.9%, 50% 50%);
+  background-color: #564736; }
+
+#Bac {
+  clip-path: polygon(0.45% 42.9%, 20.45% 39.7%, 50% 50%);
+  background-color: #54432f; }
+
+#Bad {
+  clip-path: polygon(2.65% 34.3%, 22.45% 34.7%, 50% 50%);
+  background-color: #5d4932; }
+
+#Bae {
+  clip-path: polygon(5.85% 26.3%, 25.65% 30.3%, 50% 50%);
+  background-color: #6b5337; }
+
+#Baf {
+  clip-path: polygon(10.85% 19.1%, 29.45% 26.3%, 50% 50%);
+  background-color: #755c3f; }
+
+#Bag {
+  clip-path: polygon(16.65% 12.7%, 33.65% 22.9%, 50% 50%);
+  background-color: #72593f; }
+
+#Bah {
+  clip-path: polygon(23.65% 7.5%, 38.65% 20.3%, 50% 50%);
+  background-color: #796045; }
+
+#Bai {
+  clip-path: polygon(31.45% 3.5%, 43.65% 18.7%, 50% 50%);
+  background-color: #866a4c; }
+
+#Baj {
+  clip-path: polygon(39.85% 1.1%, 49.25% 18.3%, 50% 50%);
+  background-color: #7b654e; }
+
+/*warp*/
+.warpBoar .shard:nth-child(1) {
+  clip-path: polygon(9.24% 43.92%, 0.84% 53.92%, 11.64% 48.72%) !important;
+  background-color: #664830 !important; }
+.warpBoar .shard:nth-child(2) {
+  clip-path: polygon(9.033% 44.1%, 14.033% 36.5%, 14.033% 55.5%) !important;
+  background-color: #593b1b !important; }
+.warpBoar .shard:nth-child(3) {
+  clip-path: polygon(10.033% 42.7%, 11.233% 40.9%, 11.833% 41.5%) !important;
+  background-color: #4e3c28 !important;
+  /*this polygon is underneath polygon a*/ }
+.warpBoar .shard:nth-child(4) {
+  clip-path: polygon(1.04% 53.52%, 3.24% 56.72%, 11.64% 48.32%) !important;
+  background-color: #997d5e !important; }
+.warpBoar .shard:nth-child(5) {
+  clip-path: polygon(4.44% 57.32%, 14.04% 46.52%, 9.64% 58.72%) !important;
+  background-color: #846d52 !important; }
+.warpBoar .shard:nth-child(6) {
+  clip-path: polygon(9.64% 58.32%, 11.64% 49.92%, 14.04% 55.52%) !important;
+  background-color: #6d5a43 !important; }
+.warpBoar .shard:nth-child(7) {
+  clip-path: polygon(14.04% 35.92%, 16.04% 30.12%, 18.64% 28.92%) !important;
+  background-color: #5e4327 !important; }
+.warpBoar .shard:nth-child(8) {
+  clip-path: polygon(13.84% 36.72%, 18.64% 28.92%, 16.04% 30.12%) !important;
+  background-color: #7f5a33 !important; }
+.warpBoar .shard:nth-child(9) {
+  clip-path: polygon(14.04% 55.52%, 13.84% 36.32%, 16.64% 40.52%) !important;
+  background-color: #7f5a33 !important; }
+.warpBoar .shard:nth-child(10) {
+  clip-path: polygon(18.44% 28.92%, 17.84% 33.32%, 13.04% 37.92%) !important;
+  background-color: #7f5a33 !important; }
+.warpBoar .shard:nth-child(11) {
+  clip-path: polygon(16.64% 40.52%, 23.44% 37.52%, 14.04% 55.32%) !important;
+  background-color: #593b1c !important; }
+.warpBoar .shard:nth-child(12) {
+  clip-path: polygon(13.48% 37%, 17.88% 35%, 18.68% 44%) !important;
+  background-color: #b2875b !important; }
+.warpBoar .shard:nth-child(13) {
+  clip-path: polygon(13.08% 67.4%, 28.28% 62%, 18.28% 56.8%) !important;
+  background-color: #825a31 !important; }
+.warpBoar .shard:nth-child(14) {
+  clip-path: polygon(3.08% 56.4%, 0.08% 53.6%, 1.48% 53.4%) !important;
+  background-color: #635443 !important; }
+.warpBoar .shard:nth-child(15) {
+  clip-path: polygon(14.27% 55.07%, 16.87% 37.47%, 39.67% 36.27%) !important;
+  background-color: #72593f !important; }
+.warpBoar .shard:nth-child(16) {
+  clip-path: polygon(13.67% 67.27%, 5.47% 65.47%, 18.47% 57.47%) !important;
+  background-color: #87694a !important; }
+.warpBoar .shard:nth-child(17) {
+  clip-path: polygon(5.27% 65.47%, 13.27% 68.67%, 13.67% 66.47%) !important;
+  background-color: #60584f !important; }
+.warpBoar .shard:nth-child(18) {
+  clip-path: polygon(56.67% 51.07%, 39.67% 36.27%, 20.67% 43.47%) !important;
+  background-color: #7a5630 !important; }
+.warpBoar .shard:nth-child(19) {
+  clip-path: polygon(14.27% 54.87%, 56.47% 50.67%, 27.47% 41.87%) !important;
+  background-color: #563b1f !important; }
+.warpBoar .shard:nth-child(20) {
+  clip-path: polygon(13.07% 54.67%, 28.27% 62.47%, 31.27% 52.67%) !important;
+  background-color: #63482c !important; }
+.warpBoar .shard:nth-child(21) {
+  clip-path: polygon(28.47% 61.67%, 32.47% 47.87%, 49.27% 56.47%) !important;
+  background-color: #87623c !important; }
+.warpBoar .shard:nth-child(22) {
+  clip-path: polygon(56.47% 51.07%, 39.67% 36.27%, 65.67% 43.07%) !important;
+  background-color: #72593f !important; }
+.warpBoar .shard:nth-child(23) {
+  clip-path: polygon(53.68% 40.4%, 63.68% 37.4%, 75.68% 45.2%) !important;
+  background-color: #563b1f !important; }
+.warpBoar .shard:nth-child(24) {
+  clip-path: polygon(57.07% 50.87%, 82.07% 46.67%, 64.87% 42.07%) !important;
+  background-color: #704e2b !important; }
+.warpBoar .shard:nth-child(25) {
+  clip-path: polygon(63.68% 37.6%, 77.88% 47%, 78.28% 42.8%) !important;
+  background-color: #825a31 !important; }
+.warpBoar .shard:nth-child(26) {
+  clip-path: polygon(32.47% 60.67%, 49.27% 56.47%, 52.07% 62.67%) !important;
+  background-color: #563a1d !important; }
+.warpBoar .shard:nth-child(27) {
+  clip-path: polygon(48.87% 56.67%, 59.67% 46.27%, 66.27% 55.87%) !important;
+  background-color: #93724c !important; }
+.warpBoar .shard:nth-child(28) {
+  clip-path: polygon(49.28% 56.8%, 39.88% 51.8%, 55.28% 50.4%) !important;
+  background-color: #7a5937 !important; }
+.warpBoar .shard:nth-child(29) {
+  clip-path: polygon(48.71% 56.23%, 51.71% 62.43%, 72.71% 55.43%) !important;
+  background-color: #63482c !important; }
+.warpBoar .shard:nth-child(30) {
+  clip-path: polygon(76.71% 53.43%, 80.91% 62.63%, 52.11% 61.83%) !important;
+  background-color: #825a31 !important; }
+.warpBoar .shard:nth-child(31) {
+  clip-path: polygon(61.71% 49.83%, 68.51% 61.63%, 78.31% 47.03%) !important;
+  background-color: #563a1d !important; }
+.warpBoar .shard:nth-child(32) {
+  clip-path: polygon(76.51% 53.43%, 80.71% 62.43%, 86.51% 53.63%) !important;
+  background-color: #87694a !important; }
+.warpBoar .shard:nth-child(33) {
+  clip-path: polygon(80.51% 61.83%, 89.11% 64.43%, 86.11% 53.63%) !important;
+  background-color: #a07241 !important; }
+.warpBoar .shard:nth-child(34) {
+  clip-path: polygon(86.11% 53.83%, 93.31% 62.63%, 88.91% 64.43%) !important;
+  background-color: #60584f !important; }
+.warpBoar .shard:nth-child(35) {
+  clip-path: polygon(86.11% 53.83%, 93.31% 62.63%, 88.91% 64.43%) !important;
+  background-color: transparent !important; }
+.warpBoar .shard:nth-child(36) {
+  clip-path: polygon(86.11% 53.83%, 93.31% 62.63%, 88.91% 64.43%) !important;
+  background-color: transparent !important; }
+
+/*# sourceMappingURL=boar.css.map */

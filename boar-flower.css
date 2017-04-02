@@ -1,0 +1,141 @@
+img{
+	width: 500px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.polygon-wrap{
+	width: 500px;
+	height: 500px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.shard{
+	position: absolute;
+	background-color: white;
+	width: inherit;
+	height: 500px;
+}
+
+#a{
+	clip-path: polygon( 48.45% 0.50% ,54.85% 18.90% , 50% 50%); background-color: rgb(114, 89, 63);
+}
+
+#b{
+	clip-path: polygon( 57.05% 0.70% ,60.25% 20.30% , 50% 50%); background-color: rgb(134, 107, 80);
+}
+
+#c{
+	clip-path: polygon( 65.45% 2.70% ,65.05% 22.50% , 50% 50%); background-color: rgb(150, 122, 93);
+}
+
+#d{
+	clip-path: polygon( 73.45% 5.90% ,69.65% 25.30% , 50% 50%); background-color: rgb(162, 133, 102);
+}
+
+#e{
+	clip-path: polygon( 80.85% 10.70% ,73.65% 29.10% , 50% 50%); background-color: rgb(150, 125, 98);
+}
+
+#f{
+	clip-path: polygon( 87.25% 16.70% ,77.05% 33.50% , 50% 50%); background-color: rgb(138, 116, 92);
+}
+
+#g{
+	clip-path: polygon( 92.45% 23.70% ,79.45% 38.70% , 50% 50%); background-color: rgb(123, 103, 81);
+}
+
+#h{
+	clip-path: polygon( 96.25% 31.30% ,81.05% 43.70% , 50% 50%); background-color: rgb(111, 92, 70);
+}
+
+#i{
+	clip-path: polygon( 98.85% 39.70% ,81.45% 49.30% , 50% 50%); background-color: rgb(101, 82, 60);
+}
+
+#j{
+	clip-path: polygon( 99.85% 48.50% ,81.05% 54.70% , 50% 50%); background-color: rgb(113, 88, 59);
+}
+#k{
+	clip-path: polygon( 99.25% 57.10% ,79.85% 60.10% , 50% 50%); background-color: rgb(138, 104, 64);
+}
+#l{
+	clip-path: polygon( 97.25% 65.50% ,77.65% 65.10% , 50% 50%); background-color: rgb(158, 129, 96);
+}
+#m{
+	clip-path: polygon( 93.85% 73.50% ,74.45% 69.70% , 50% 50%); background-color: rgb(146, 117, 85);
+}
+#n{
+	clip-path: polygon( 89.05% 80.70% ,70.85% 73.70% , 50% 50%); background-color: rgb(134, 106, 76);
+}
+#o{
+	clip-path: polygon( 83.25% 87.10% ,66.25% 76.90% , 50% 50%); background-color: rgb(114, 89, 63);
+}
+#p{
+	clip-path: polygon( 76.25% 92.30% ,61.45% 79.30% , 50% 50%); background-color: rgb(114, 89, 63);
+}
+#q{
+	clip-path: polygon( 68.45% 96.30% ,56.05% 80.90% , 50% 50%); background-color: rgb(121, 94, 66);
+}
+#r{
+	clip-path: polygon( 60.05% 98.70% ,50.65% 81.30% , 50% 50%); background-color: rgb(134, 103, 71);
+}
+#s{
+	clip-path: polygon( 51.65% 99.70% ,45.05% 80.90% , 50% 50%); background-color: rgb(144, 111, 78);
+}
+#t{
+	clip-path: polygon( 42.85% 99.30% ,39.85% 79.50% , 50% 50%); background-color: rgb(158, 124, 89);
+}
+#u{
+	clip-path: polygon( 34.45% 97.10% ,34.65% 77.30% , 50% 50%); background-color: rgb(150, 121, 91);
+}
+#v{
+	clip-path: polygon( 26.45% 93.90% ,30.25% 74.30% , 50% 50%); background-color: rgb(136, 114, 91);
+}
+#w{
+	clip-path: polygon( 19.25% 88.90% ,26.25% 70.50% , 50% 50%); background-color: rgb(123, 104, 83);
+}
+#x{
+	clip-path: polygon( 12.85% 83.10% ,23.05% 65.90% , 50% 50%); background-color: rgb(115, 97, 77);
+}
+#y{
+	clip-path: polygon( 7.65% 76.30% ,20.45% 61.30% , 50% 50%); background-color: rgb(105, 89, 71);
+}
+#z{
+	clip-path: polygon( 3.65% 68.50% ,18.65% 56.30% , 50% 50%); background-color: rgb(97, 82, 65);
+}
+#aa{
+	clip-path: polygon( 1.05% 60.10% ,18.45% 50.70% , 50% 50%); background-color: rgb(90, 75, 59);
+}
+#ab{
+	clip-path: polygon( 0.05% 51.50% ,19.05% 44.90% , 50% 50%); background-color: rgb(86, 71, 54);
+}
+#ac{
+	clip-path: polygon( 0.45% 42.90% ,20.45% 39.70% , 50% 50%); background-color: rgb(84, 67, 47);
+}
+#ad{
+	clip-path: polygon( 2.65% 34.30% ,22.45% 34.70% , 50% 50%); background-color: rgb(93, 73, 50);
+}
+#ae{
+	clip-path: polygon( 5.85% 26.30% ,25.65% 30.30% , 50% 50%); background-color: rgb(107, 83, 55);
+}
+#af{
+	clip-path: polygon( 10.85% 19.10% ,29.45% 26.30% , 50% 50%); background-color: rgb(117, 92, 63);
+}
+#ag{
+	clip-path: polygon( 16.65% 12.70% ,33.65% 22.90% , 50% 50%); background-color: rgb(114, 89, 63);
+}
+#ah{
+	clip-path: polygon( 23.65% 7.50% ,38.65% 20.30% , 50% 50%); background-color: rgb(121, 96, 69);
+}
+#ai{
+	clip-path: polygon( 31.45% 3.50% ,43.65% 18.70% , 50% 50%); background-color: rgb(134, 106, 76);
+}
+#aj{
+	clip-path: polygon( 39.85% 1.10% ,49.25% 18.30% , 50% 50%); background-color: rgb(123, 101, 78);
+}

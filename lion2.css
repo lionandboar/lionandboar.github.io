@@ -1,0 +1,170 @@
+img {
+  width: 500px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); }
+
+.polygon-wrap {
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); }
+
+.shard {
+  position: absolute;
+  background-color: gray;
+  width: inherit;
+  height: 500px; }
+
+/*#a5661f brown*/
+/*#ffe249 yellow*/
+/*#ffdda4 beige*/
+/*#f37025 orange*/
+#a {
+  clip-path: polygon(91.2% 36.98%, 82.6% 57.27%, 78.8% 50.67%);
+  background-color: #dec856; }
+
+#b {
+  clip-path: polygon(91.2% 36.98%, 74.24% 47.2%, 75.44% 55.2%);
+  background-color: #e8d674; }
+
+#c {
+  clip-path: polygon(72.2% 49.27%, 74.8% 41.27%, 91.2% 36.98%);
+  background-color: #f5e387; }
+
+#d {
+  clip-path: polygon(68.24% 44.2%, 71.84% 37%, 91.2% 36.98%);
+  background-color: #e2ce66; }
+
+#e {
+  clip-path: polygon(66.84% 37.6%, 75.44% 33.4%, 91.2% 36.98%);
+  background-color: #f3d745; }
+
+#f {
+  clip-path: polygon(68.04% 32.6%, 79.84% 29.2%, 90.64% 37.2%);
+  background-color: #ecd217; }
+
+#g {
+  clip-path: polygon(76.44% 29.4%, 85.64% 27.6%, 90.84% 37.2%);
+  background-color: rgba(222, 212, 89, 0.83); }
+
+#h {
+  clip-path: polygon(85.8% 27.8%, 95.34% 34.6%, 90.74% 37%);
+  background-color: #bd7b30; }
+
+#i {
+  clip-path: polygon(77.44% 54.8%, 86.04% 52.5%, 90.44% 66.6%);
+  background-color: #8c581e; }
+
+#j {
+  clip-path: polygon(92.64% 42.4%, 88.84% 47%, 88.64% 43%);
+  background-color: #7f4e16; }
+
+#k {
+  clip-path: polygon(88.84% 46.8%, 92.24% 49.4%, 90.84% 44.2%);
+  background-color: #63411a; }
+
+#l {
+  clip-path: polygon(92.04% 49.4%, 93.24% 47%, 91.44% 47.6%);
+  background-color: #c5bcbc; }
+
+#m {
+  clip-path: polygon(70.64% 52.4%, 79.04% 57.8%, 77.84% 70.2%);
+  background-color: #9e692e; }
+
+#n {
+  clip-path: polygon(88.34% 43.4%, 91.04% 37%, 92.44% 42.4%);
+  background-color: #a5661f; }
+
+#o {
+  clip-path: polygon(90.84% 36.4%, 95.24% 34.6%, 92.44% 42.6%);
+  background-color: #8e6a43; }
+
+#p {
+  clip-path: polygon(92.44% 42.4%, 97.24% 43%, 95.24% 34.6%);
+  background-color: #c58944; }
+
+#q {
+  clip-path: polygon(97.04% 43%, 99.24% 41%, 95.24% 34.8%);
+  background-color: #a78359; }
+
+#r {
+  clip-path: polygon(95.04% 34.6%, 99.84% 39.4%, 99.04% 40.8%);
+  background-color: #6d5130; }
+
+#s {
+  clip-path: polygon(70.44% 35.6%, 57.84% 39.8%, 67.84% 57.8%);
+  background-color: #a77134; }
+
+#t {
+  clip-path: polygon(55.74% 59.6%, 67.84% 57.8%, 57.94% 39.5%);
+  background-color: #bf8747; }
+
+#u {
+  clip-path: polygon(67.84% 57.4%, 86.04% 52.8%, 70.24% 35.6%);
+  background-color: #a5661f; }
+
+#v {
+  clip-path: polygon(43.44% 52%, 55.84% 59.4%, 57.94% 39.6%);
+  background-color: #cc985c; }
+
+#w {
+  clip-path: polygon(43.44% 52.2%, 57.84% 39.8%, 38.44% 40%);
+  background-color: #d49b5a; }
+
+#x {
+  clip-path: polygon(29.84% 46.4%, 38.64% 40.2%, 43.64% 52.2%);
+  background-color: #de933e; }
+
+#y {
+  clip-path: polygon(29.84% 46.2%, 29.84% 56%, 43.84% 52.2%);
+  background-color: #bb8241; }
+
+#z {
+  clip-path: polygon(38.7% 40.2%, 29.84% 46.4%, 30.24% 41.8%);
+  background-color: #6d5130; }
+
+#aa {
+  clip-path: polygon(43.64% 52.2%, 31.64% 66.6%, 29.84% 55.8%);
+  background-color: #a5661f; }
+
+#ab {
+  clip-path: polygon(30.04% 55.8%, 25.84% 65.6%, 32.64% 72%);
+  background-color: #865014; }
+
+#ac {
+  clip-path: polygon(29.44% 69%, 32.64% 72%, 37.84% 72.2%);
+  background-color: rgb(132, 90, 41); }
+
+#ad {
+  clip-path: polygon(43.64% 52%, 51.04% 56.4%, 38.64% 61.8%);
+  background-color: #8c581e; }
+
+#ae {
+  clip-path: polygon(38.64% 61.4%, 40.84% 69.2%, 50.44% 56.6%);
+  background-color: #a06c32; }
+
+#af {
+  clip-path: polygon(46.24% 70.2%, 42.64% 66.6%, 40.84% 69.2%);
+  background-color: #6d5130; }
+
+#ag {
+  clip-path: polygon(69.24% 46.2%, 65.24% 54.8%, 77.64% 65.6%);
+  background-color: #8c581e; }
+
+#ah {
+  clip-path: polygon(78.24% 65.8%, 77.44% 70%, 81.64% 71.4%);
+  background-color: #845a29; }
+
+#ai {
+  clip-path: polygon(86.24% 53.6%, 90.44% 66.8%, 96.04% 69.2%);
+  background-color: #a06c32; }
+
+#aj {
+  clip-path: polygon(94.24% 66.6%, 99.64% 66.4%, 95.64% 68.8%);
+  background-color: #6d5130; }
+
+/*# sourceMappingURL=main.css.map */

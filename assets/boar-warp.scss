@@ -1,0 +1,116 @@
+.warpBoar{
+	.shard{
+		&:nth-child(1){
+			clip-path: polygon( 9.24% 43.92% ,0.84% 53.92% ,11.64% 48.72% ) !important; background-color: #664830 !important;
+		}
+
+		&:nth-child(2){
+			clip-path: polygon( 9.033% 44.100% ,14.033% 36.500% ,14.033% 55.500% ) !important; background-color: rgb(89, 59, 27) !important;
+		}
+
+		&:nth-child(3){
+			clip-path: polygon( 10.033% 42.700% ,11.233% 40.900% ,11.833% 41.500% ) !important; background-color: rgb(78, 60, 40) !important;
+			/*this polygon is underneath polygon a*/
+		}
+
+		&:nth-child(4){
+			clip-path: polygon( 1.04% 53.52% ,3.24% 56.72% ,11.64% 48.32% ) !important; background-color: rgb(153, 125, 94) !important;
+		}
+
+		&:nth-child(5){
+			clip-path: polygon( 4.440% 57.320% ,14.040% 46.520% ,9.640% 58.720% ) !important; background-color: rgb(132, 109, 82) !important;
+		}
+
+		&:nth-child(6){
+			clip-path: polygon( 9.640% 58.320% ,11.640% 49.920% ,14.040% 55.520% ) !important; background-color: rgb(109, 90, 67) !important;
+		}
+
+		&:nth-child(7){
+			clip-path: polygon( 14.040% 35.920% ,16.040% 30.120% ,18.640% 28.920% ) !important; background-color: rgb(94, 67, 39) !important;
+		}
+
+		&:nth-child(8){
+			clip-path: polygon( 13.840% 36.720% ,18.640% 28.920% ,16.040% 30.120% ) !important; background-color: rgb(127, 90, 51) !important;
+		}
+
+		&:nth-child(9){
+			clip-path: polygon( 14.04% 55.52% ,13.84% 36.32% ,16.64% 40.52% ) !important; background-color: rgb(127, 90, 51) !important;
+		}
+
+		&:nth-child(10){
+			clip-path: polygon( 18.44% 28.92% ,17.84% 33.32% ,13.04% 37.92% ) !important; background-color: rgb(127, 90, 51) !important;
+		}
+		&:nth-child(11){
+			clip-path: polygon( 16.64% 40.52% ,23.44% 37.52% ,14.04% 55.32% ) !important; background-color: rgb(89, 59, 28) !important;
+		}
+		&:nth-child(12){
+			clip-path: polygon( 13.48% 37.00% ,17.88% 35.00% ,18.68% 44.00% ) !important; background-color: rgb(178, 135, 91) !important;
+		}
+		&:nth-child(13){
+			clip-path: polygon( 13.08% 67.40% ,28.28% 62.00% ,18.28% 56.80% ) !important; background-color: rgb(130, 90, 49) !important;
+		}
+		&:nth-child(14){
+			clip-path: polygon( 3.08% 56.40% ,0.08% 53.60% ,1.48% 53.40% ) !important; background-color: rgb(99, 84, 67) !important;
+		}
+		&:nth-child(15){
+			clip-path: polygon( 14.27% 55.07% ,16.87% 37.47% ,39.67% 36.27% ) !important; background-color: rgb(114, 89, 63) !important;
+		}
+		&:nth-child(16){
+			clip-path: polygon( 13.67% 67.27% ,5.47% 65.47% ,18.47% 57.47% ) !important; background-color: rgb(135, 105, 74) !important;
+		}
+		&:nth-child(17){
+			clip-path: polygon( 5.27% 65.47% ,13.27% 68.67% ,13.67% 66.47% ) !important; background-color: rgb(96, 88, 79) !important;
+		}
+		&:nth-child(18){
+			clip-path: polygon( 56.67% 51.07% ,39.67% 36.27% ,20.67% 43.47% ) !important; background-color: rgb(122, 86, 48) !important;
+		}
+		&:nth-child(19){
+			clip-path: polygon( 14.27% 54.87% ,56.47% 50.67% ,27.47% 41.87% ) !important; background-color: rgb(86, 59, 31) !important;
+		}
+		&:nth-child(20){
+			clip-path: polygon( 13.07% 54.67% ,28.27% 62.47% ,31.27% 52.67% ) !important; background-color: rgb(99, 72, 44) !important;
+		}
+		&:nth-child(21){
+			clip-path: polygon( 28.47% 61.67% ,32.47% 47.87% ,49.27% 56.47% ) !important; background-color: rgb(135, 98, 60) !important;
+		}
+		&:nth-child(22){
+			clip-path: polygon( 56.47% 51.07% ,39.67% 36.27% ,65.67% 43.07% ) !important; background-color: rgb(114, 89, 63) !important;
+		}
+		&:nth-child(23){
+			clip-path: polygon( 53.68% 40.40% ,63.68% 37.40% ,75.68% 45.20% ) !important; background-color: rgb(86, 59, 31) !important;
+		}
+		&:nth-child(24){
+			clip-path: polygon( 57.07% 50.87% ,82.07% 46.67% ,64.87% 42.07% ) !important; background-color: rgb(112, 78, 43) !important;
+		}
+		&:nth-child(25){
+			clip-path: polygon( 63.68% 37.60% ,77.88% 47.00% ,78.28% 42.80% ) !important; background-color: rgb(130, 90, 49) !important;
+		}
+		&:nth-child(26){
+			clip-path: polygon( 32.47% 60.67% ,49.27% 56.47% ,52.07% 62.67% ) !important; background-color: rgb(86, 58, 29) !important;
+		}
+		&:nth-child(27){
+			clip-path: polygon( 48.87% 56.67% ,59.67% 46.27% ,66.27% 55.87% ) !important; background-color: rgb(147, 114, 76) !important;
+		}
+		&:nth-child(28){
+			clip-path: polygon( 49.28% 56.80% ,39.88% 51.80% ,55.28% 50.40% ) !important; background-color: rgb(122, 89, 55) !important;
+		}
+		&:nth-child(29){
+			clip-path: polygon( 48.71% 56.23% ,51.71% 62.43% ,72.71% 55.43% ) !important; background-color: rgb(99, 72, 44) !important;
+		}
+		&:nth-child(30){
+			clip-path: polygon( 76.71% 53.43% ,80.91% 62.63% ,52.11% 61.83% ) !important; background-color: rgb(130, 90, 49) !important;
+		}
+		&:nth-child(31){
+			clip-path: polygon( 61.71% 49.83% ,68.51% 61.63% ,78.31% 47.03% ) !important; background-color: rgb(86, 58, 29) !important;
+		}
+		&:nth-child(32){
+			clip-path: polygon( 76.51% 53.43% ,80.71% 62.43% ,86.51% 53.63% ) !important; background-color: rgb(135, 105, 74) !important;
+		}
+		&:nth-child(33){
+			clip-path: polygon( 80.51% 61.83% ,89.11% 64.43% ,86.11% 53.63% ) !important; background-color: rgb(160, 114, 65) !important;
+		}
+		&:nth-child(34){
+			clip-path: polygon( 86.11% 53.83% ,93.31% 62.63% ,88.91% 64.43% ) !important; background-color: rgb(96, 88, 79) !important;
+		}
+	}
+}
