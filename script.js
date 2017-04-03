@@ -1,3 +1,11 @@
+function getRandomColor() {
+    var letters = '0123456789ABCDEF';
+    var color = '#';
+    for (var i = 0; i < 6; i++ ) {
+        color += letters[Math.floor(Math.random() * 16)];
+    }
+    return color;
+}
 
 //
 
@@ -167,6 +175,7 @@ window.addEventListener('mousemove', function(e){
 var passed = false;
 
 window.addEventListener('click', function(){
+  document.body.style.backgroundColor = getRandomColor();
   var lion = document.getElementById('lion');
   var boar = document.getElementById('boar');
   if (!warped){
